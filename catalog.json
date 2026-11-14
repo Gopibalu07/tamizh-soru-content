@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "baseUrl": "https://raw.githubusercontent.com/Gopibalu07/tamizh-soru-content/main",
+  "actors": [
+    {
+      "id": "vadivelu",
+      "name": "Vadivelu",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vadivelu_at_an_audio_launch.jpg/220px-Vadivelu_at_an_audio_launch.jpg"
+    }
+  ],
+  "clips": [
+    {
+      "id": "v_001",
+      "actorId": "vadivelu",
+      "title": "Enna kodumai sir ithu!",
+      "file": "https://www.soundjay.com/buttons/sounds/button-1.mp3",
+      "durationMs": 2000,
+      "tags": ["comedy", "vadivelu"]
+    }
+  ],
+  "stickerPacks": []
+}
